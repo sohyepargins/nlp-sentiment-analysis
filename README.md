@@ -3,6 +3,6 @@
 - Data: IMDb reviews (Source: http://ai.stanford.edu/~amaas/data/sentiment/)
 - Task: Binary classificaiton (Positive vs. Negative)
 - Classifiers: 
-  - Gaussin Naive Bayes; 
-  - Gradient Boost Decision Trees; 
+  - Gaussian Naive Bayes; 
+  - Gradient Boost Decision Tree; 
   - Recurrent Neural Net (RNN)
